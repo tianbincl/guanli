@@ -1,0 +1,78 @@
+.top{
+
+    width: 1200px;
+    height: 800px;
+   
+    
+  
+}
+.lleft{
+    width: 200px;
+    height: 800px;
+    float: left;
+}
+.left{
+
+    width: 150px;
+    height: 75px;
+   
+    float: left;
+    font-size: 20px;
+    border: 1px solid rgb(173, 195, 209);
+    line-height:75px;
+    text-align:center;
+    border-radius: 35px;
+    margin: 3px;
+}
+
+.route{
+    width: 998px;
+    height: 798px;
+   
+    float: left;
+}
+
+
+
+
+
+.top1{
+    width: 1900px;
+    height: 100px;
+   background-color: rgb(255, 255, 255);
+   float: left;
+   border: 1px solid black;
+
+}
+
+.img{
+    width: 500px;
+    height: 100px;
+    float: left;
+}
+
+.biaoti{
+    font-size: 50px;
+    margin-bottom: 20px;
+    height: 10px;
+    width: 400px;
+    line-height: 100px;
+    float: left;
+}
+
+
+
+.yonghu{
+    width: 100px;
+    height: 100px;
+    float: right;
+    border-radius: 50%;
+    background-color:white;
+}
+.yhimg{
+    width: 70px;
+    height: 65px;
+    margin-top: 15px;
+    margin-left: 12.5px;
+
+}

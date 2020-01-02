@@ -1,0 +1,28 @@
+.background{
+    background-image: url(./img/熊.jpg);
+    background-size: 100% 100%;
+    width: 100%;
+    height: 900px;
+}
+
+.container{
+    widows: 100px;
+}
+
+.title{
+    color: rgb(233, 210, 152);
+    font-size: 70px;
+    margin-left: 42%;
+    margin-top: 50%;
+}
+
+.piece{
+    width: 600px;
+    height: 50px;
+    margin-left: 38%;
+}
+
+.register{
+    width: 150px;
+    margin-left: 45%;
+}

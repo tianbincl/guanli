@@ -1,0 +1,41 @@
+
+
+.top1{
+    width: 1900px;
+    height: 100px;
+   background-color: rgb(255, 255, 255);
+   float: left;
+}
+
+.img{
+    width: 500px;
+    height: 100px;
+    float: left;
+}
+
+.biaoti{
+    font-size: 50px;
+    margin-bottom: 20px;
+    height: 10px;
+    width: 400px;
+    line-height: 100px;
+    float: left;
+}
+
+
+
+.yonghu{
+    width: 100px;
+    height: 100px;
+    float: right;
+    border-radius: 50%;
+    background-color:white;
+}
+.yhimg{
+    width: 70px;
+    height: 68px;
+    margin-top: 15px;
+    margin-left: 12.5px;
+
+}
+
